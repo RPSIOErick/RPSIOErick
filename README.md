@@ -15,8 +15,7 @@
 
 <br>
 
-## What do I use in my projects?
-### Not all of my projects is uploaded in GitHub...
+<center> ## What do I use in my projects? </center>
 
 <div style="display: inline_block"><br>
  
