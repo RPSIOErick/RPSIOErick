@@ -1,7 +1,7 @@
 ## Hey! Welcome to my GitHub 👋
 
-- 🔭 I’m currently working on PrepTEC (Term Paper Project)
-- 📫 How to reach me: ecerickbastos@gmail.com
+- 🔭 I’m currently studying in Fatec Zona Leste
+- 📫 You can send me an e-mail in ecerickbastos@gmail.com
 - 😄 Pronouns: he/him
 - 🌎 Languages: Brazilian Portuguese & English
 
