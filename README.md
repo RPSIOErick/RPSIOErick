@@ -1,4 +1,4 @@
-## Hey! Welcome to my GitHub 👋
+## <div align='center'> Hey! Welcome to my GitHub 👋 </div>
 
 - 🔭 I’m currently studying in Fatec Zona Leste
 - 📫 You can send me an e-mail in ecerickbastos@gmail.com
@@ -7,16 +7,15 @@
 
 <br>
 
-<div style="display: flex; align-items: center; justify-content: center;">
-
-  ![Erick Bastos's GitHub stats](https://github-readme-stats.vercel.app/api?username=rpsioerick&show_icons=true&theme=tokyonight) &nbsp;
+<div align="center">  
+   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RPSIOErick&show_icons=true&count_private=true&hide_border=true&title_color=39B8C6&icon_color=87CEFA&text_color=E0FFFF&bg_color=0d1117" alt="My github stats" />  
+  <img width="37.5%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RPSIOErick&layout=compact&hide_border=true&title_color=39B8C6&text_color=E0FFFF&bg_color=0d1117" />
 
 </div>
 
 <br>
 
 ## What do I use in my projects?
-### Not all of my projects is uploaded in GitHub...
 
 <div style="display: inline_block"><br>
  
@@ -28,6 +27,7 @@
   <img align="center" alt="Erick-PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img align="center" alt="Erick-Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img align="center" alt="Erick-MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  <img align="center" alt="Erick-Insomnia" src="https://img.shields.io/badge/Insomnia-4000BF?logo=insomnia&logoColor=white&style=for-the-badge">
 
 </div>
 
