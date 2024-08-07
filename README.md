@@ -15,9 +15,9 @@
 
 <br>
 
-## What do I use in my projects?
+## <div align="center"> What do I use in my projects? </div>
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="center"><br>
  
   <img align="center" alt="Erick-Js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
   <img align="center" alt="Erick-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -33,7 +33,7 @@
 
 <br>
 
-<div> 
+<div align="center"> 
   
   ### You can contact me here:
   
