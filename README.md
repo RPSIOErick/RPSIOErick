@@ -7,7 +7,7 @@
 
 <br>
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center; justify-content: center;">
 
   ![Erick Bastos's GitHub stats](https://github-readme-stats.vercel.app/api?username=rpsioerick&show_icons=true&theme=tokyonight) &nbsp;
 
