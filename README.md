@@ -1,9 +1,8 @@
 ## <div align='center'> Hey! Welcome to my GitHub 👋 </div>
 
-- 🔭 I’m currently studying in Fatec Zona Leste
-- 📫 You can send me an e-mail in ecerickbastos@gmail.com
-- 😄 Pronouns: he/him
-- 🌎 Languages: Brazilian Portuguese & English
+Hello! I’m currently studying in Fatec Zona Leste and I'm a CIO Intern at IBM.
+My last big project was <a href="https://github.com/RPSIOErick/PrepTEC-FETEPS"> PrepTEC</a>. It was presented on FETEPS, on IBM and it has an published article on EnGeTec.
+  
 
 <br>
 
