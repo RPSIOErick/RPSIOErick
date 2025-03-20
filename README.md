@@ -1,7 +1,7 @@
 ## <div align='center'> Hey! Welcome to my GitHub 👋 </div>
 
 Hello! I’m currently studying in Fatec Zona Leste and I'm a CIO Intern at IBM.
-My last big project was <a href="https://github.com/RPSIOErick/PrepTEC-FETEPS"> PrepTEC</a>. It was presented on FETEPS, on IBM and it has an published article on EnGeTec.
+My last big project was <a href="https://github.com/RPSIOErick/PrepTEC-FETEPS"> PrepTEC</a>. It was presented on FETEPS, on IBM and it has a published article on EnGeTec.
   
 
 <br>
