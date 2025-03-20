@@ -1,8 +1,6 @@
 ## <div align='center'> Hey! Welcome to my GitHub 👋 </div>
 
-- 🔭 I’m currently studying in Fatec Zona Leste
-- 📫 You can send me an e-mail in ecerickbastos@gmail.com
-- 😄 Pronouns: he/him
+- 🔭 I’m currently studying in Fatec Zona Leste and I'm a CIO Intern at IBM
 - 🌎 Languages: Brazilian Portuguese & English
 
 <br>
@@ -28,6 +26,7 @@
   <img align="center" alt="Erick-Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img align="center" alt="Erick-MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img align="center" alt="Erick-Insomnia" src="https://img.shields.io/badge/Insomnia-4000BF?logo=insomnia&logoColor=white&style=for-the-badge">
+   <img align="center" alt="Erick-Python" src="https://img.shields.io/badge/Python-4000BF?logo=python&logoColor=white&style=for-the-badge">
 
 </div>
 
